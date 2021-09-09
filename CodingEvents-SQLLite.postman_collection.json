@@ -1,4 +1,8 @@
 {
+	// appsettings.json
+	"KeyVaultName": "<Your Name>-kv-ce-secrets",
+
+
 	"info": {
 		"_postman_id": "e3fd71aa-2420-4ae9-8c97-077cc1676e11",
 		"name": "CodingEvents-SQLLite",
